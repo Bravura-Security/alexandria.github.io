@@ -22,6 +22,14 @@ Realistically you will ask different types of questions that might invoke differ
 
 * "Can you review the attached contract for potential problems" which may invoke the legal contract assistant. 
 
+Limitations include:
+
+| Limitation | Summary |
+|------------|---------|
+| 250 MB File Size | to protect against denial of service attacks, we block uploading of documents greater than 250 MB in size |
+| Images not supported | Images are currently ignored and considered when generating answers |
+| 100 pages immediate questions | The AI is limited in what it an consume when you ask it a general question on a document. The specific length depends on the language of the document. But the rule of thumb is the first 100 pages of a document will be referenced in conversations |  
+
 # Creating books from word documents
 
 TBD
