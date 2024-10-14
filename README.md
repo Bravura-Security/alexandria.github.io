@@ -2,7 +2,7 @@
 
 Alexandria is an AI platform for business optimization. It is intended to enable all areas of a business. If your curious what it can offer, please see the below:
 
-* [Alexandria for everyone](general/intro)
+* [Alexandria for Everyone](general/intro)
 * [Alexandria for Sales](sales/intro)
 * [Alexandria for Marketing](marketing/intro)
 * [Alexandria for Customer Support](cs/intro)
@@ -11,6 +11,8 @@ Alexandria is an AI platform for business optimization. It is intended to enable
 * [Alexandria for Quality Assurance](qa/intro)
 * [Alexandria for Professional Services](ps/intro)
 * [Alexandria for Legal](legal/intro)
+
+To begin your journey with alexandria, contact support@bravurasecurity.com and review our [Day 1 configuration guide](quickstart/day1)
 
 # Measure Success
 
@@ -22,16 +24,17 @@ A key challenge with adopting AI platforms is measuring your return on investmen
 * Improved employee satisfaction by giving them alternatives to tedious tasks they dislike doing.
 * Help people fill in skill gaps rapidly and grow their skills
 
-# Getting Going with Alexandria
+See our section on [measurement](measurement/intro)
 
-* Requesting access to Alexandria - contact support@bravurasecurity.com
-* [Day 1 configuration](quickstart/day1)
-* General Tips And Tricks
-* Assistant Creation - 101
-* Optimizing Assistants
-* Creating a book from product documentation
-* Coding with Alexandria
-* Tools
-* Measuring Assistant Effectiveness
-* Measuring Employee Adoption
-* Measuring the Quality of Content Available to Alexandria
+# Alexandria Concepts
+
+* [Assistants](assistants/intro)
+* [Books](books/intro)
+* [Tools](tools/intro)
+* [Measurement](measurement/intro)
+
+# Technical elements
+
+* API
+* Data Security
+* System Architecture
