@@ -48,3 +48,38 @@ Infrastructure
 * [Loki](loki)
 * [Hasura](hasura)
 * Prometheus
+* Hadoop
+* Elastic Search
+
+IaaS
+
+* AWS
+* Azure
+* Google Cloud Platform
+
+CI/CD
+
+* Bitbucket
+* Github
+* Azure Dev Ops
+
+Testing
+
+* Robotframework
+* JUnit
+* Jmeter
+
+APIs
+
+* Odata
+* Graphql
+* gRPC
+* SOAP
+
+AI
+
+* [OpenAI](openai)
+* [Anthropic](anthropic)
+* [AWS Bedrock](aws-bedrock)
+
+
