@@ -1,0 +1,9 @@
+# Overview
+
+Alexandria can help enable product managers on multiple forms that include:
+
+* Persona creation and refinement
+* User story brainstorming
+* Acceptance criteria brainstorming
+* Creation of marketing content from designs
+* Creation of demo scripts from designs, user stories, and acceptance criteria

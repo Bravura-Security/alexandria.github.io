@@ -2,6 +2,13 @@
 
 Alexandria can help Sales teams make decisions faster, create better content, and make more compelling arguments for our customers to choose us as a trusted partner. 
 
+* Check on the Status of Customer Tickets
+* Brainstorm Ideas to Land the Deal
+* Rapidly Research Areas You Are Not Familiar With
+* Competitor Analysis and Differentiation
+* Sales Collateral Generation and Customization
+* Sales Process Optimization and Best Practices Sharing
+
 # Check on the Status of Customer Tickets
 
 Alexandria can access the real time state of your tickets in platforms like Zendesk. It can help you cut through all the back and forth conversation and get to the key details you need to go back to a customer with.  
