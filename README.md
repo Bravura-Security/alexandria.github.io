@@ -11,6 +11,7 @@ Alexandria is an AI platform for business optimization. It is intended to enable
 * [Alexandria for Quality Assurance](qa/intro)
 * [Alexandria for Professional Services](ps/intro)
 * [Alexandria for Legal](legal/intro)
+* [Alexandria for DevSecOps](devsecops/intro)
 
 To begin your journey with alexandria, contact support@bravurasecurity.com and review our [Day 1 configuration guide](quickstart/day1)
 
