@@ -18,6 +18,20 @@ Languages:
 * [Python](python)
 * [C++](cpp)
 * [React](react)
+* [Java](java)
+* [C#](c-sharp)
+* [Rust](rust)
+* [Go](go)
+* [Visual Basic](visual-basic)
+* [Cobol](cobol)
+* [Fortran](fortran)
+* [Javascript](javascript)
+* [PHP](php)
+* [Ruby](ruby)
+* [Swift](swift)
+* [Typesript](typescript)
+* [Scala](scala)
+* [R](r)
 
 Databases
 
@@ -25,6 +39,7 @@ Databases
 * [MSSQL](mssql)
 * Oracle
 * Mysql
+* SQLite
 
 Infrastructure
 
