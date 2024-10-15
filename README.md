@@ -36,6 +36,7 @@ See our section on [measurement](measurement/intro)
 
 # Technical elements
 
+* [What's new with alexandria?](whats-new/intro)
 * API
 * Data Security
 * System Architecture
