@@ -7,7 +7,7 @@ Below is a summary of what's new.
 * Online documentation at https://bravura-security.github.io/alexandria.github.io/
 * Zendesk support tickets via support@bravurasecurity.com
 * Aha! idea bank at https://alexandria-bravura-security.ideas.aha.io/
-* [Azure Devops Tool](/tools/azure-devops)
+* [Azure Devops Tool](/alexandria.github.io/tools/azure-devops)
 * Quick links in the header too
   * Submit support ticket
   * Submit idea to the idea bank
