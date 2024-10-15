@@ -11,8 +11,8 @@ Below is a list of tools that alexandria ships with. Experimental tools are stil
 | [Bitbucket](bitbucket) | Provides git commit, pr, file access, and code search | Supported |
 | [Bravura Security Fabric](bsf) | Provides identity and access management capabilities | Supported |
 | [Confluence](confluence) | Provides access to confluence articles and search | Experimental |
-| DuckDB | Provides advanced excel document interactions | Experimental |
-| Github Cloud | Provides git commit, pr, file access, and code search | Supported | 
+| [DuckDB](duckdb) | Provides advanced excel document interactions | Experimental |
+| [Github Cloud](github) | Provides git commit, pr, file access, and code search | Supported | 
 | Grafana | Provides access to grafana logs and queries | Experimental |
 | Hasura | Provides the ability to run graphql queries against hasura data stores | Supported |
 | Hubspot | Provides the ability to search and interact with content in hubspot | Supported |
