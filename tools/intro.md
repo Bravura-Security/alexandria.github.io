@@ -7,7 +7,7 @@ Below is a list of tools that alexandria ships with. Experimental tools are stil
 | [Aha!](aha) | Product management via Aha! | Supported |
 | [Azure Dev Ops](azure-devops) | Provides git commit, pr, file access, and code search | Experimental |
 | [Bing Internet Search](bing) | Provides general internet search capabilities | Supported |
-| Books | Allows searching of books held within alexandria | Supported |
+| [Books](books) | Allows searching of books held within alexandria | Supported |
 | Bitbucket | Provides git commit, pr, file access, and code search | Supported |
 | Bravura Security Fabric | Provides identity and access management capabilities | Supported |
 | Confluence | Provides access to confluence articles and search | Experimental |
