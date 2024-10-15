@@ -4,7 +4,7 @@ Below is a list of tools that alexandria ships with. Experimental tools are stil
 
 | Tool | Description | Status |
 |------|-------------|--------|
-| Aha! | Product management via Aha! | Supported |
+| [Aha!](aha) | Product management via Aha! | Supported |
 | Azure Dev Ops | Provides git commit, pr, file access, and code search | Experimental |
 | Bing Internet Search | Provides general internet search capabilities | Supported |
 | Books | Allows searching of books held within alexandria | Supported |
