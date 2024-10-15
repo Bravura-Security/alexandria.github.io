@@ -9,7 +9,7 @@ Below is a list of tools that alexandria ships with. Experimental tools are stil
 | [Bing Internet Search](bing) | Provides general internet search capabilities | Supported |
 | [Books](books) | Allows searching of books held within alexandria | Supported |
 | [Bitbucket](bitbucket) | Provides git commit, pr, file access, and code search | Supported |
-| Bravura Security Fabric | Provides identity and access management capabilities | Supported |
+| [Bravura Security Fabric](bsf) | Provides identity and access management capabilities | Supported |
 | Confluence | Provides access to confluence articles and search | Experimental |
 | DuckDB | Provides advanced excel document interactions | Experimental |
 | Github Cloud | Provides git commit, pr, file access, and code search | Supported | 
