@@ -15,7 +15,7 @@ Below is a list of tools that alexandria ships with. Experimental tools are stil
 | [Github Cloud](github) | Provides git commit, pr, file access, and code search | Supported | 
 | [Grafana](grafana) | Provides access to grafana logs and queries | Experimental |
 | [Hasura](hasura) | Provides the ability to run graphql queries against hasura data stores | Supported |
-| Hubspot | Provides the ability to search and interact with content in hubspot | Supported |
+| [Hubspot](hubspot) | Provides the ability to search and interact with content in hubspot | Supported |
 | Jira | Provides the ability to interact with Jira tickets | Supported |
 | Zendesk | Provides the ability to interact with zendesk tickets and kb articles | Supported |
 | Salesforce | Provides the ability to search and interact with content in salesforce | Supported |

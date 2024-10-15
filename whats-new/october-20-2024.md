@@ -15,6 +15,8 @@ Below is a summary of what's new.
 
 ## Enhanced Capabilities
 
+* Expanded salesforce support for all content that can be stored in salesforce
+* Expanded search functionality for hubspot
 * Attach 250 MB word documents and chat with them
 * Attach 250 MB pdf documents and chat with them
 * Create books from 250 MB word documents
