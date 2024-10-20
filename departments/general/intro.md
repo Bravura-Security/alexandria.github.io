@@ -1,3 +1,9 @@
+---
+title: General
+parent: Departments
+nav_order: 1
+---
+
 # General
 
 Alexandria can be used for a wide range of general topics that include:

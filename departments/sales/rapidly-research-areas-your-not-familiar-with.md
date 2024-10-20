@@ -1,3 +1,8 @@
+---
+title: Researching Areas
+parent: Sales
+nav_order: 1
+---
 
 # Rapidly Research Areas You Are Not Familiar With
 

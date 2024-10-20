@@ -1,3 +1,9 @@
+---
+title: Legal
+parent: Departments
+nav_order: 1
+---
+
 # Legal
 
 Alexandria can help legal in many ways. Such as:

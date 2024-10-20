@@ -1,3 +1,9 @@
+---
+title: Marketing
+parent: Departments
+nav_order: 1
+---
+
 # Marketing
 
 Alexandria can help Marketing teams create more compelling content faster and easier. Translate sometimes complex topics into compelling value statements that create compelling reasons for our customers to buy, upgrade, and adopt the innovations we are creating. 

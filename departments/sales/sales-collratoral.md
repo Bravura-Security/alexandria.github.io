@@ -1,3 +1,9 @@
+---
+title: Building Sales Collateral
+parent: Sales
+nav_order: 1
+---
+
 # Sales Collateral Generation and Customization
  
 Alexandria can help sales teams create and customize sales collateral quickly. For example, a sales rep could ask:

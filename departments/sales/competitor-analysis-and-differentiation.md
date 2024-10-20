@@ -1,3 +1,9 @@
+---
+title: Competitor Analysis and Differentiation
+parent: Sales
+nav_order: 1
+---
+
 # Competitor Analysis and Differentiation
  
 Alexandria can assist sales teams in quickly gathering and analyzing competitor information. Sales representatives can ask Alexandria questions like:

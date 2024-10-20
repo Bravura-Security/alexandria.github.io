@@ -1,3 +1,9 @@
+---
+title: Sales
+parent: Departments
+nav_order: 1
+---
+
 # Sales
 
 Alexandria can help Sales teams make decisions faster, create better content, and make more compelling arguments for our customers to choose us as a trusted partner. 

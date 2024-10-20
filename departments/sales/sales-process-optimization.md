@@ -1,3 +1,9 @@
+---
+title: Sales Process Optimization
+parent: Sales
+nav_order: 1
+---
+
 # Sales Process Optimization and Best Practices Sharing
 
 Alexandria can serve as a repository and analyst for sales best practices. Sales managers or representatives can ask:

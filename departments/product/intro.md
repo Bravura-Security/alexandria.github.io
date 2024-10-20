@@ -1,4 +1,10 @@
-# Product 
+---
+title: Product Management
+parent: Departments
+nav_order: 1
+---
+
+# Product Management
 
 Alexandria can help enable product managers on multiple forms that include:
 

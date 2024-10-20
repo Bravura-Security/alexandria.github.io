@@ -1,3 +1,9 @@
+---
+title: Quality Assurance
+parent: Departments
+nav_order: 1
+---
+
 # Quality Assurance
 
 Alexandria can help QA with many scenarios such as 
