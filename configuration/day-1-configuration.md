@@ -1,3 +1,9 @@
+---
+title: Day 1 Configuration
+parent: Configuration
+nav_order: 1
+---
+
 # Day 1 Configuration
 
 ## Planning
