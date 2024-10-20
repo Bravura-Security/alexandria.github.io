@@ -1,3 +1,8 @@
+---
+title: Insights
+nav_order: 2
+---
+
 # Insights
 
 Insights are extracted from the knowledge held in our organization. Insights are extracted by applying a score card to content. So to have an insight you must have 

@@ -1,6 +1,6 @@
 ---
 title: What's New
-nav_order: 1
+nav_order: 2
 ---
 
 # What's new in Alexandria
