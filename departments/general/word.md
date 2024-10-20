@@ -1,3 +1,9 @@
+---
+title: Word Assistant
+parent: General
+nav_order: 1
+---
+
 # Microsoft Word Assistant
 
 Alexandria can work with word documents in two primray forms. 
