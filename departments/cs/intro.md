@@ -1,3 +1,9 @@
+---
+title: Customer Success
+parent: Departments
+nav_order: 1
+---
+
 # Customer Success
 
 Alexandria can help customer support in many ways. Such as

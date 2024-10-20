@@ -1,3 +1,9 @@
+---
+title: Python Assistant
+parent: Engineering
+nav_order: 1
+---
+
 # Python Assistant
 
 This page helps you configure the Python Development Assistant

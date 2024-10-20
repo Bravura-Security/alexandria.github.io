@@ -1,3 +1,9 @@
+---
+title: Engineering
+parent: Departments
+nav_order: 1
+---
+
 # Overview
 
 Alexandria can help Engineering teams tackle challenges that have historically been impractical due to cost and time challenges. 
