@@ -1,3 +1,8 @@
+---
+title: DuckDB
+parent: Tools
+---
+
 # DuckDB Tool
 
 The DuckDB tool is a Python module that provides integration with DuckDB, allowing users to execute SQL queries on CSV or Excel data. It enables data analysis and manipulation directly within the Alexandria platform.

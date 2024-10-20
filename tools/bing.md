@@ -1,3 +1,8 @@
+---
+title: Bing Search
+parent: Tools
+---
+
 # Bing Search Tool
 
 The Bing Search tool is a Python module that provides integration with Microsoft's Bing search engine. It allows users to perform web searches and retrieve detailed information from search results using the Bing Search API.

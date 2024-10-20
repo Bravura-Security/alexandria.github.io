@@ -1,3 +1,8 @@
+---
+title: Books
+parent: Tools
+---
+
 # Books Tool
 
 The Books tool is a Python module that provides integration with Alexandria's book management system. It allows users to interact with book pages and perform searches within books through the Alexandria API.

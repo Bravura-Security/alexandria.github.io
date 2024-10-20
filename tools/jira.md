@@ -1,3 +1,8 @@
+---
+title: Jira
+parent: Tools
+---
+
 # Jira Tool
 
 The Jira tool is a Python module that provides integration with Atlassian's Jira issue tracking and project management platform. It allows users to interact with Jira through its REST API, primarily focusing on searching for issues.

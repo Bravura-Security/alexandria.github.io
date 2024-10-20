@@ -1,3 +1,8 @@
+---
+title: Aha!
+parent: Tools
+---
+
 # Aha! Tool
 
 The Aha tool is a Python module that provides integration with the Aha! product management platform. It allows users to interact with various Aha! resources such as products, ideas, epics, features, initiatives, goals, and more through the Aha! API.

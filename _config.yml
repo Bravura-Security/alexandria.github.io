@@ -1,4 +1,6 @@
 # theme: jekyll-theme-cayman
+# https://just-the-docs.com/docs/search/
 remote_theme: just-the-docs/just-the-docs
 title: Alexandria AI Documentation
 description: Welcome to Alexandria!
+search_enabled: true

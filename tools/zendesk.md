@@ -1,3 +1,8 @@
+---
+title: Zendesk
+parent: Tools
+---
+
 # Zendesk Tool
 
 The Zendesk tool is a Python module that provides integration with the Zendesk customer service and support ticketing system. It allows users to search for tickets and knowledge base articles through the Zendesk API.

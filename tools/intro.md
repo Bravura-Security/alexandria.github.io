@@ -1,3 +1,8 @@
+---
+title: Tools
+nav_order: 1
+---
+
 # Tools 
 
 Below is a list of tools that alexandria ships with. Experimental tools are still undergoing testing and validation with customers. 
