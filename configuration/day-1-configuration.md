@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 Configuration
 
 ## Planning
 In preparation for Day 1, you will need to do the following tasks. 

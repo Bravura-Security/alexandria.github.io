@@ -1,0 +1,3 @@
+# Scala Assistant
+
+Under construction

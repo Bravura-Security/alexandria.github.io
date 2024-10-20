@@ -1,3 +1,8 @@
+---
+title: Bravura Security Fabric
+parent: Tools
+---
+
 # Bravura Security Fabric Tool
 
 The Bravura Security Fabric (BSF) tool is a Python module that provides integration with the Bravura Security Fabric Identity API. It allows users to interact with various BSF Identity resources such as user accounts, roles, workflow requests, and more through the BSF Identity API.

@@ -1,3 +1,8 @@
+---
+title: Salesforce
+parent: Tools
+---
+
 # Salesforce Tool
 
 The Salesforce tool is a Python module that provides integration with the Salesforce CRM platform. It allows users to interact with various Salesforce objects through the Salesforce API using SOQL (Salesforce Object Query Language) queries.

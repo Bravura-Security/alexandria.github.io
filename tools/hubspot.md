@@ -1,3 +1,8 @@
+---
+title: Hubspot
+parent: Tools
+---
+
 # HubSpot Tool
 
 The HubSpot tool is a Python module that provides integration with the HubSpot CRM platform. It allows users to interact with various HubSpot resources such as contacts, companies, deals, campaigns, and more through the HubSpot API.

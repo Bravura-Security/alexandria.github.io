@@ -1,3 +1,8 @@
+---
+title: Azure Devops
+parent: Tools
+---
+
 # Azure Devops Tool
 
 The Azure DevOps tool is a Python module that provides integration with Azure DevOps, allowing users to interact with various Azure DevOps resources such as repositories, pull requests, commits, and files through the Azure DevOps API.

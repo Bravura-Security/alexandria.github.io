@@ -1,3 +1,8 @@
+---
+title: Github
+parent: Tools
+---
+
 # GitHub Tool
 
 The GitHub tool is a Python module that provides integration with the GitHub platform. It allows users to interact with various GitHub resources such as repositories, commits, pull requests, and file contents through the GitHub API.

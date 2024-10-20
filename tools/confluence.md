@@ -1,3 +1,8 @@
+---
+title: Confluence
+parent: Tools
+---
+
 # Confluence Tool
 
 The Confluence tool is a Python module that provides integration with Atlassian Confluence, a team collaboration and knowledge management platform. It allows users to search for articles and retrieve specific content from Confluence through the Confluence REST API.

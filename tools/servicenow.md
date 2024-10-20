@@ -1,3 +1,8 @@
+---
+title: Service Now
+parent: Tools
+---
+
 # ServiceNow Tool
 
 The ServiceNow tool is a Python module that provides integration with the ServiceNow platform. It allows users to interact with ServiceNow tickets through the ServiceNow API.

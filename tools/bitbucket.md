@@ -1,3 +1,8 @@
+---
+title: Bitbucket
+parent: Tools
+---
+
 # Bitbucket Tool
 
 The Bitbucket tool is a Python module that provides integration with the Bitbucket platform. It allows users to interact with various Bitbucket resources such as repositories, commits, pull requests, and files through the Bitbucket API.

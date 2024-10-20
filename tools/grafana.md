@@ -1,3 +1,8 @@
+---
+title: Grafana
+parent: Tools
+---
+
 # Grafana Tool
 
 The Grafana tool is a Python module that provides integration with the Grafana monitoring and visualization platform. It allows users to interact with Grafana datasources and execute queries through the Grafana API.

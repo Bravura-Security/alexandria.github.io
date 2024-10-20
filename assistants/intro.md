@@ -1,3 +1,8 @@
+---
+title: Assistants
+nav_order: 1
+---
+
 # Assistants
 
 Alexandria provides access to a range of assistants. You are encouraged to create assistants yourself. But to give you a launchpad of good common functionality we also provide you with a range of assistants for a wide range of duties.

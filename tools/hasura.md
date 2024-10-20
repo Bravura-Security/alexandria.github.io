@@ -1,3 +1,8 @@
+---
+title: Hasura
+parent: Tools
+---
+
 # Hasura Tool
 
 The Hasura tool is a Python module that provides integration with the Hasura GraphQL API. It allows users to execute GraphQL queries on the Hasura API and retrieve results.
