@@ -1,6 +1,6 @@
 ---
 title: Departments
-nav_order: 2
+nav_order: 9
 ---
 
 # Departments
