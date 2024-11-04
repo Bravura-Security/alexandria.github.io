@@ -2,7 +2,7 @@
 
 Alexandria is an AI platform for business optimization. It is intended to enable all areas of a business. Its founded on these concepts:
 
-* Knowledge Management
+* [Knowledge Management](knowledge/intro)
 * [Assistants](assistants/intro)
 * [Books](books/intro)
 * [Tools](tools/intro)
