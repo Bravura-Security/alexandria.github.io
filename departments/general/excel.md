@@ -90,6 +90,16 @@ SELECT * FROM '5._Technical_Questions' LIMIT 21 OFFSET 99
 You are an expert at doing data analysis on spreadsheets. You should be descriptive and detailed in your responses. Ensuring you are as factually correct as possible. Always show your work when you are summarizing content for people. 
 ```
 
+# Best Practices
+
+The tool can handle very large spreadsheets. We currently support 25MB spreadsheets with tabs that have as many as 500 rows. But it cannot handle all spreadsheets. Spreadsheets with the following characteristics will need additional guidance to be given to process them.
+
+* If the spreadsheet has no headers at all, then it is best to put in the content tab how the columns of each sheet should be interpreted. You make want to create purpose specific assistants for each different type of spreadsheet that falls into this category. 
+
+* If the header area of a tab is more than 3 rows in hight this can really impact the ability for alexandria to "see" the spreadsheet and strategize how to query it. Its best if your header is only 1-3 rows in hight. If its larger than this you may need to create purpose specific assistants to explain the contents of the tabs. When their data begins. When their data ends.
+
+
+
 # How it works under the covers
 
 The excel assistant works by taking excel files that are attached to a chat and converting them to a database that can then be queried using [DuckDB](https://duckdb.org/). Each tab of the spreadsheet is turned into a table. And each row in the sheet becomes a row in the database table. 
