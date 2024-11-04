@@ -8,6 +8,24 @@ nav_order: 1
 
 The excel assistant allows people to talk to their excel documents. 
 
+# How to chat with an excel document
+
+1. Login to alexandria
+1. Create the excel assistant that is defined below
+1. Click "ATTACH FILE" from the UI
+1. Wait for the file to process (for larger files this may take 10+ seconds)
+1. Ask a question such as "can you count how many requirements are defined in the document?"
+
+Limitations include:
+
+| Limitation | Summary |
+|------------|---------|
+| 25 MB File Size | to protect against denial of service attacks, we block uploading of documents greater than 25 MB in size |
+| 5 row headers | If your spreadsheet tabs have headers larger than 5 rows they need special consideration described below |
+| 500 columns | We have tested spreadsheets with up to 500 coumns in a single tab | 
+| 25 tabs | We have tested with spreadsheets that have up to 25 tabs |
+
+
 # Configuration
 
 We recomend you create the following Assistant
