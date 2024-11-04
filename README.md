@@ -1,8 +1,3 @@
----
-title: Introduction
-nav_order: 1
----
-
 # Introduction 
 
 Alexandria is an AI platform for business optimization. It is intended to enable all areas of a business. Its founded on these concepts:
