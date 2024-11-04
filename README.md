@@ -10,16 +10,16 @@ Alexandria is an AI platform for business optimization. It is intended to enable
 
 If your curious what it can offer, please see the below:
 
-* [Alexandria for Everyone](general/intro)
-* [Alexandria for Sales](sales/intro)
-* [Alexandria for Marketing](marketing/intro)
-* [Alexandria for Customer Support](cs/intro)
-* [Alexandria for Product Management](product/intro)
-* [Alexandria for Engineering](engineering/intro)
-* [Alexandria for Quality Assurance](qa/intro)
-* [Alexandria for Professional Services](ps/intro)
-* [Alexandria for Legal](legal/intro)
-* [Alexandria for DevSecOps](devsecops/intro)
+* [Alexandria for Everyone](departments/general/intro)
+* [Alexandria for Sales](departments/sales/intro)
+* [Alexandria for Marketing](departments/marketing/intro)
+* [Alexandria for Customer Support](departments/cs/intro)
+* [Alexandria for Product Management](departments/product/intro)
+* [Alexandria for Engineering](departments/engineering/intro)
+* [Alexandria for Quality Assurance](departments/qa/intro)
+* [Alexandria for Professional Services](departments/ps/intro)
+* [Alexandria for Legal](departments/legal/intro)
+* [Alexandria for DevSecOps](departments/devsecops/intro)
 
 To begin your journey with alexandria, contact support@bravurasecurity.com and review our [Day 1 configuration guide](configuration/day-1-configuration)
 
