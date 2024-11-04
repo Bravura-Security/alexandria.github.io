@@ -29,8 +29,8 @@ These fundamental principals underpine our strategy here.
 
 | Area | Description |
 |------|-------------|
-| [Assistants](assistants/intro) | Helps you navigate the library. Your subject matter experts. |
-| [Books](books/intro) | Blocks of knowledge. Your source code. Your word documents. Your salesforce instance. etc |
-| [Tools](tools/intro) | The tools used to access content. Sometimes you can pick a book off a shelf. Othertimes you will search at a computer terminal. |
-| [Measurement](insights/intro) | The ability to measure the quality of the books in the library |
+| [Assistants](/assistants/intro) | Helps you navigate the library. Your subject matter experts. |
+| [Books](/books/intro) | Blocks of knowledge. Your source code. Your word documents. Your salesforce instance. etc |
+| [Tools](/tools/intro) | The tools used to access content. Sometimes you can pick a book off a shelf. Othertimes you will search at a computer terminal. |
+| [Measurement](/insights/intro) | The ability to measure the quality of the books in the library |
 
