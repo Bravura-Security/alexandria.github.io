@@ -20,5 +20,13 @@ Alexandria is the same. Books can be composed of:
 
 A book represents a logical chunk of information. And books can have multiple versions. For example, books about our products could be assembled where you have a different book for each different version of the product documentation you want to use. 
 
-This will then allow your [assistants](/assistants/intro) to be able to bring in the right information at the right time  given the users questions they raise. 
+This will then allow your [assistants](/alexandria.github.io/assistants/intro) to be able to bring in the right information at the right time  given the users questions they raise. 
+
+# Creating books
+
+For tutorials on how to create books with your different content please see the below tutorials
+
+* Creating a product documentation book using an existing pdf
+* Creating a source code book using content in bitbucket
+* Creating a product research book using aha content
 

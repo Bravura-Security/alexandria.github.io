@@ -18,13 +18,13 @@ Assistants are the subject matter experts that allow people to navigate the libr
 
 Assistants come in many forms and we recommend reviewing 
 
-* [Alexandria for Everyone](/departments/general/intro)
-* [Alexandria for Sales](/departments/sales/intro)
-* [Alexandria for Marketing](/departments/marketing/intro)
-* [Alexandria for Customer Support](/departments/cs/intro)
-* [Alexandria for Product Management](/departments/product/intro)
-* [Alexandria for Engineering](/departments/engineering/intro)
-* [Alexandria for Quality Assurance](/departments/qa/intro)
-* [Alexandria for Professional Services](/departments/ps/intro)
-* [Alexandria for Legal](/departments/legal/intro)
-* [Alexandria for DevSecOps](/departments/devsecops/intro)
+* [Alexandria for Everyone](/alexandria.github.io/departments/general/intro)
+* [Alexandria for Sales](/alexandria.github.io/departments/sales/intro)
+* [Alexandria for Marketing](/alexandria.github.io/departments/marketing/intro)
+* [Alexandria for Customer Support](/alexandria.github.io/departments/cs/intro)
+* [Alexandria for Product Management](/alexandria.github.io/departments/product/intro)
+* [Alexandria for Engineering](/alexandria.github.io/departments/engineering/intro)
+* [Alexandria for Quality Assurance](/alexandria.github.io/departments/qa/intro)
+* [Alexandria for Professional Services](/alexandria.github.io/departments/ps/intro)
+* [Alexandria for Legal](/alexandria.github.io/departments/legal/intro)
+* [Alexandria for DevSecOps](/alexandria.github.io/departments/devsecops/intro)
