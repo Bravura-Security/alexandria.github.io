@@ -16,7 +16,6 @@ This assistant helps you with doing research leveraging various online resources
 Research Assistant
 ```
 
-
 **AI Model**
 
 ```
