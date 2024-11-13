@@ -28,4 +28,6 @@ A response is a a question/answer response. When users ask questions, the follow
 Elements that are unique to responses include:
 
 * People can vote on the quality of the response the Assistant is given. 
-* People can give a comment that allows them to explain what they like and dislike about the response. 
+* People can give a comment that allows them to explain what they like and dislike about the response.
+
+Each session counts towards transaction counts for billing purposes. 
