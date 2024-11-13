@@ -1,10 +1,10 @@
 ---
-title: October 20, 2024
+title: October 2024
 parent: What's New
 nav_order: 1
 ---
 
-# What's new in October 20, 2024
+# What's new in October 2024
 
 Below is a summary of what's new.
 

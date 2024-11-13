@@ -26,3 +26,23 @@ Below is a list of tools that alexandria ships with. Experimental tools are stil
 | [Salesforce](salesforce) | Provides the ability to search and interact with content in salesforce | Supported |
 | [ServiceNow](servicenow) | Provides the abiliity to interact with ServiceNow tickets | Experimental |
 
+# Proxy
+
+Some applications we need to interface with are only available on private networks. Our network proxy creates a bridge that allows alexandria to communicate with these on-premesis systems. 
+
+The network proxy is a light weight service that is deployed on a linux virtual machine in your network. It communicates with alexandria over https. Its execution sequence is as follows:
+
+1. The network proxy is installed and started. Its configuration values are stored in environment variables. 
+1. The network proxy polls alexandria looking for work to do. 
+1. When a user asks a question that needs gitlab files to be returned, an alexandria tool will ask for the proxy to run a command. 
+1. When the network proxy polls home looking for work, it will realize alexandria is waiting for a tool to be ran.
+1. The network proxy will then run the command and collect output.
+1. The network proxy will then return the results to the alexandria server
+1. The alexandria server will then consume those results and progress in factoring that information into next steps. 
+
+For steps to deploy the network proxy please see [Proxy](proxy)
+
+| Tool | Description | Status |
+|------|-------------|--------|
+| [Gitlab](gitlab-on-premesis) | Gitlab version control system | Experimental |
+

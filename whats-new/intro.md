@@ -7,4 +7,5 @@ nav_order: 8
 
 Alexandria releases new capabilities each sprint. 
 
-* [October 20, 2024](october-20-2024)
+* [November 2024](november-2024)
+* [October 2024](october-20-2024)
