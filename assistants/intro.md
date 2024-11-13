@@ -16,6 +16,10 @@ Assistants are the subject matter experts that allow people to navigate the libr
 | Books | Optional books that the assistant can reference. Useful for bringing in background material and sharing background material between assistants |
 | Content | The heart of the assistant. Its persona. Its guidelines it should follow. What it must not do. Background knowledge useful about who we are as a business. Templates of good work we expect the assistant to produce |
 
+Below are a set of tutorials 
+
+* [Assistant Creation 101](assistant-creation-tutorial)
+
 Assistants come in many forms and we recommend reviewing 
 
 * [Alexandria for Everyone](/alexandria.github.io/departments/general/intro)
